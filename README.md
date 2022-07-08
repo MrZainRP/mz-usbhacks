@@ -8,7 +8,7 @@ _Created by Mr_Zain#4139_
 ## INTRODUCTION
 
 - A resource where the player accesses a computer system (can be changed to any boxzone or even a PED if desirable) to hack and encode USBs found in dumspters (if using mz-bins).
-- Earning XP via performing succesful hacks unlocks harder hacks (which can be customised) producing better probabilities of better hack returns i.e. more rare USB outputs. 
+- Earning XP via performing successful hacks unlocks harder hacks (which can be customised) producing better probabilities of better hack returns i.e. more rare USB outputs. 
 - USB outputs can be used for other scripts, example cryptosticks + trojan_usbs. 
 
 ## DEPENDENCIES
