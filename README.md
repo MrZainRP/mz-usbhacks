@@ -3,6 +3,8 @@
 _A XP progression based hacking function for usb drops in qb-core FiveM servers_
 _Created by Mr_Zain#4139_
 
+[![mz-usbhacks](https://i.imgur.com/G3SLcGC.png)](https://www.youtube.com/watch?v=QS6SwJcp2F4 "mz-usbhacks for FiveM by Mr_Zain#4139")
+
 ## INTRODUCTION
 
 - A resource where the player accesses a computer system (can be changed to any boxzone or even a PED if desirable) to hack and encode USBs found in dumspters (if using mz-bins).
@@ -71,7 +73,7 @@ Config.DoorList['usbhack_door-usbhack_door'] = {
 }
 ```
 
-(YOU CAN ALTERNATIVELY SIMPLY ADD THE CONFIG FILE WHICH COMES WITH THIS RESOURCE TO YOUR QB-DOORLOCK/CONFIGS FOLDER)
+(YOU CAN ALTERNATIVELY SIMPLY ADD THE CONFIG FILE (usbhack_door.lua) - WHICH COMES WITH THIS RESOURCE - TO YOUR QB-DOORLOCK/CONFIGS FOLDER IF YOU ARE USING QB-DOORLOCK)
 
 ## F. FINALISATION
 
