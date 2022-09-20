@@ -1,4 +1,4 @@
-## MZ-USBHACKS - a skill based USB hacking and encoding resource integrated with XP progression
+## RESOURCE HAS BEEN DISCONTINUED AND REPLACED WITH MZ-HACKS. PLEASE GET THE LATEST VERSION AT: https://github.com/MrZainRP/mz-hacks (SIMILAR CONCEPT BUT REWORKED AND IMPROVED)
 
 _A XP progression based hacking function for usb drops in qb-core FiveM servers_
 _Created by Mr_Zain#4139_
